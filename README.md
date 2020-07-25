@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Passionate about technology
+
 Always looking to improve my knowledge
