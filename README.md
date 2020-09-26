@@ -13,8 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTudose&langs_count=10)
 -->
 
 Passionate about technology
 
 Always looking to improve my knowledge
+
+![github stats](https://github-readme-stats.vercel.app/api?username=VictorTudose&hide_border=true&hide=stars,prs,issues,contribs&show_icons=true&show_owner=true)
