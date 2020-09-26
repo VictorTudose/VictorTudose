@@ -8,7 +8,12 @@
   <img align="left" alt="Linked In" width="20px" src="assets/hr.svg" />
 </a>
 
+<a href="https://codepen.io/victortudose">
+  <img align="left" alt="Linked In" width="20px" src="assets/codepen.png" />
+</a>
+
 <br>
+
 
 Passionate about technology
 
