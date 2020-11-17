@@ -14,7 +14,7 @@
 
 <br>
 
-Passionate about technology
-Always eager to learn
+Passionate about technology 
+Always eager to learn 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=VictorTudose&hide_border=true&hide=stars,prs,issues,contribs&show_icons=true&show_owner=true)
