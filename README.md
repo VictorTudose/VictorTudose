@@ -15,6 +15,7 @@
 <br>
 
 Passionate about technology
+[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
 
 Always eager to learn 
 
